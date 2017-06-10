@@ -3,6 +3,7 @@
 This is a guideline document for the RoboCup Junior Rescue League – inspired by various practices popular among the community.
 If you feel like contributing, please do so! Fork the project and open a pull request.
 
+This document focuses on the field judges. See special [guidelines for interviewers](Interviewers.md).
 
 # General guidelines for Line and Maze
 
