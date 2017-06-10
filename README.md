@@ -1,3 +1,9 @@
+# Introduction
+
+This is a guideline document for the RoboCup Junior Rescue League – inspired by various practices popular among the community.
+If you feel like contributing, please do so! Fork the project and open a pull request.
+
+
 # General guidelines for Line and Maze
 
 1. Be kind to the teams. Treat them well. Don't be upset even if the team is upset. Be calm and explain for them the situation. 
@@ -86,3 +92,17 @@ Information that NOT is OK to tell the robot is the location of victims, walls, 
 8. Score for speedbumps in a tile will be given regardless if the robot has actual passed the speedbump or not. It will be enough if the robot has visited the square and subsequently left it (on its own, it is not counted as passed speedbump if the team call LoP in the tile and lift the robot away). 
 
 9. After a LoP the robot should be placed in the last visisted checkpoint. The robot should be completely within the tile when looking from above. It can be turned in any direction, but keep an eye for suspicious behaviour here! 
+
+
+
+
+# License
+
+![cc license](http://i.creativecommons.org/l/by/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution 4.0
+International license](https://creativecommons.org/licenses/by/4.0/).
+
+# Credits
+
+Fredrik Lofgren / [@FredrikLofgren](https://twitter.com/fredriklofgren) / http://fredriklofgren.se
